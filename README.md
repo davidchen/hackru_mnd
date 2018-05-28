@@ -12,13 +12,14 @@ I've written this guide so that you, as a new director, will not get overwhelmed
 
 Here's a general overview of what should be done as HackRU draws closer. Each of the suggested deadlines are respective to the beginning date of your current semester. For example, if you're currently planning for a Fall-semester HackRU (which traditionally begins mid-October), then 2 weeks before launch places the task due at the beginning of October. Use these deadlines to plan your own specific due dates for your team and organizers.
 
-| Time Before Launch | Things to Have Finished |
+| Time Before Launch | Things to Do/Have Done |
 | --- | --- |
-| 1 day | <ul><li>item1</li><li>item2</li><li>item2</li><li>item2</li></ul> |
-| 1 week | <ul><li>item1</li><li>item2</li><li>item2</li><li>item2</li></ul> |
-| 2 weeks | <ul><li>item1</li><li>item2</li><li>item2</li><li>item2</li></ul> |
-| 3 weeks | <ul><li>item1</li><li>item2</li><li>item2</li><li>item2</li></ul> |
-| 1 month | <ul><li>item1</li><li>item2</li><li>item2</li><li>item2</li></ul> |
-| 1.5 months | <ul><li>item1</li><li>item2</li><li>item2</li><li>item2</li></ul> |
-| 2 months | <ul><li>item1</li><li>item2</li><li>item2</li><li>item2</li></ul> |
-| 3 months | <ul><li>item1</li><li>item2</li><li>item2</li><li>item2</li></ul> |
+| 3 months | <li>Select a theme for this semester</li><li>Decide on the color scheme</li><li>Launch splash page with RnD</li><li>Create a sponsorship document with Finance team</li><li>Reach out to interested MnD applicants to be a part of the team</li><li>Create square icon using HackRU logo with color scheme</li><li>Create social media cover pictures with color scheme (and theme)</li> |
+| 2.5 months | <li>Finalize registration website with RnD; replace splash page with registration</li><li>Send out emails to subscribers about registration open</li><li>Advertise on all social media about registration open</li><li>Collect any marketing or design needs from other teams</li><li>Begin having MnD team meetings</li><li>Brainstorm the first marketing campaign(s)</li><li>Change social media logos and covers with updated designs</li> |
+| 2 months | <li>Begin brainstorming and delegating design tasks</li><li>Execute first marketing campaign(s)</li><li>Have further MnD meetings and brainstorm rest of marketing campaigns</li><li>Make a budget with Finance</li><li>Decide on quantity of swag to buy</li><li>Begin reaching out to (approved) apparel vendors for quotes</li> |
+| 1.5 months | <li>Revise and finalize sticker designs, Snapchat filter design, banner design, t-shirt design</li><li>Revise and finalize all other designs</li><li>Create Facebook event for HackRU</li><li>Should be executing weekly marketing campaigns now</li> |
+| 1 month :fire: | <li>Revise and finalize sticker designs, Snapchat filter design, banner design, t-shirt design</li><li>Revise and finalize all other designs</li><li>Create Facebook event for HackRU</li><li>Should be executing weekly marketing campaigns now</li><li>Consistently market on social media/IRL</li><li>Have MnD meetings as needed to get updates/keep updated</li><li>Get team to change their personal profile pics and covers to advertise for HackRU</li> |
+| 3 weeks | <li>Order all swag and stay updated with your vendors</li><li>Ask other teams during meetings if they need any last minute tasks for MnD</li><li>Marketing campaigns should be well under way</li> |
+| 2 weeks | <li>All swag/apparel orders should have shipped, if not already arrived</li><li>Discuss and delegate tasks for weekend of HackRU with MnD team (photos, videos, announcements, social media, etc.)</li> |
+| 1 week | <li>All swag/apparel should have arrived or are ready to be picked up</li> |
+| 1 day :sparkles: | <li>Pick up all swag</li><li>Help teams with setting up in the venue</li><li>Breathe, relax, and take some time to congratulate yourself and the team for making it this far</li> |
